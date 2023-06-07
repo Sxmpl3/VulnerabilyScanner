@@ -1,4 +1,4 @@
-# VulnerabilyScanner
+# VulnerabilyScanner [BETA]
 
 Tool created to facilitate the vulnerability scanning process
 --------------------------------------------------------------
