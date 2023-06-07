@@ -1,7 +1,8 @@
 # VulnerabilyScanner [BETA]
 
 Tool created to facilitate the vulnerability scanning process
---------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 You must need to install, python 3.10 or higher, impacket and pysmb MODULE
 
