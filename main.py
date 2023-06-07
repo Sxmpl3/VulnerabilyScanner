@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+
+# Vulnerability Scanner | Done by Sxmpl3 (https://github.com/Sxmpl3)
 v=input
 z=print
 I=Exception
